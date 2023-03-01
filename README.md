@@ -5,8 +5,8 @@
 
 
 
-###   **What's my stack?** </h2>
-       { softWare Engineer | MERN } 
+###   **What am I?** </h2>
+       { Muslim | Software Engineer | Bibliophile | Tryer  } 
 
 ###   **Founder/C.E.O of Muslimah In Tech and co-founder of OmariAI** </h2>
 #### Follow MinT on:
@@ -23,7 +23,7 @@
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-Here are some basic things to know about Areebah♠💎;
+What's up with Areebah♠💎;
 
 - 🔭 I’m currently working on acquiring DSA skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
@@ -38,9 +38,10 @@ Here are some basic things to know about Areebah♠💎;
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
-<code><img src="images/sass.jpg" width="60" title="SASS" /></code>
+<code><img src="https://icons8.com/icon/45490/c-sharp-logo-2" width="60" title="C#" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
+<code><img src="https://icons8.com/icon/40670/c-programming" width="60" title="C" /></code>
 <!-- <code><img src="images/dart.png" width="65" title="Dart" /></code> -->
 
 #### Frameworks/Libraries I Use
@@ -64,7 +65,7 @@ Here are some basic things to know about Areebah♠💎;
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
-<code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
+<!-- <code><img src="images/figma.jpeg" width="60" title="Figma" /></code> -->
              
              
        
