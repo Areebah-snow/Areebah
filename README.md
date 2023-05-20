@@ -8,7 +8,7 @@
 ###   **What am I?** </h2>
        { Muslim | Software Engineer | Bibliophile | Tryer  } 
 
-###   **Founder/C.E.O of Muslimah In Tech and co-founder of OmariAI** </h2>
+###  
 #### Follow MinT on:
 <a href="https://twitter.com/muslimahintech"><img src="images/twitter.png" width="60" /></a>
 <a href="https://www.linkedin.com/in/muslimah-in-tech-64a726267/"><img src="images/linkedin.png" width="60" /></a>
