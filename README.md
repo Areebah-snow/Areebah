@@ -5,7 +5,7 @@
 
 
 
-###   **What am I?** </h2>
+###   **Who am I?** </h2>
        { Muslim | Software Engineer | Bibliophile | Tryer  } 
 
 ###  
@@ -32,7 +32,7 @@ What's up with Areebah♠💎;
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: mudathiraisha657@gmail.com, 
                       Phone:+234 8087895683,
-- 😄 Pronouns: Not into that mentally ill stuff, I'm female,
+- 😄 Pronouns: Not into that mentally ill stuff, I'm female
 - ⚡ Fun fact: I love eating ice cream🍨(Don't hesitate to get me one 😉).
 
 #### My Core Languages
@@ -69,6 +69,5 @@ What's up with Areebah♠💎;
              
              
        
-#### Lifestyle
-![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
+
 
