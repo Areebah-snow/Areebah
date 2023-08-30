@@ -9,8 +9,8 @@
        { Muslim | Software Engineer | Bibliophile | Tryer  } 
 
 ###  
-#### Follow MinT on:
-<a href="https://twitter.com/muslimahintech"><img src="images/twitter.png" width="60" /></a>
+#### Follow me on:
+<a href="https://twitter.com/areebbaah"><img src="images/twitter.png" width="60" /></a>
 <a href="https://www.linkedin.com/in/muslimah-in-tech-64a726267/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://www.instagram.com/muslimahintech_/"><img src="images/ig.png" width="70" /></a>
 
