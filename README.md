@@ -31,7 +31,6 @@ What's up with Areebah♠💎;
 - 🤔 I’m looking for help with expanding my community,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: mudathiraisha657@gmail.com, 
-                      Phone:+234 8087895683,
 - 😄 Pronouns: Not into that mentally ill stuff, I'm female
 - ⚡ Fun fact: I love eating ice cream🍨(Don't hesitate to get me one 😉).
 
