@@ -1,6 +1,5 @@
 <h1>Yokoso!</h1>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/aisha-mudathir-1b0207228/"> Aisha Mudathir</a></div>
-    
+
 <h1>Welcome To Areebah's Domain♠</h1>
 
 
