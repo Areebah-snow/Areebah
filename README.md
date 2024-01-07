@@ -7,19 +7,9 @@
 ###   **Who am I?** </h2>
        { Muslim | Software Engineer | Bibliophile | Tryer  } 
 
-###  
-#### Follow me on:
-<a href="https://twitter.com/areebbaah"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.linkedin.com/in/muslimah-in-tech-64a726267/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://www.instagram.com/muslimahintech_/"><img src="images/ig.png" width="70" /></a>
 
 
-#### Connect with me on:
-<a href="https://www.linkedin.com/in/aisha-mudathir-1b0207228/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/fav_introvert"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/areebah_0.5/"><img src="images/ig.png" width="70" /></a>
 
-<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
 What's up with Areebah♠💎;
